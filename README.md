@@ -49,10 +49,12 @@ The following **required** functionality is completed:
 - Offline map access for areas without signal
 
 # My App Idea
-** My Own version of To-Do List and Schedule Calendar**
+**My Own version of To-Do List and Schedule Calendar**
 
 We always have to be prepared for each day to make productive use of our precious time. In my personal and school life, to-do list apps, and calendars are everything that maximizes my productivity of each day. It allows me to feel in control of the situations in my life, and ensures my ends to be met. 
+
 However, as I am using the apps created by other people, some features are not to my favors, and it's sometimes problematic to use. Therefore, I plan to create a to-do list and calendar app of my own that manages my schedules and my plans in one place. This is an idea that I've been thinking for a while, but have never developed, due to my skill constraints. After this course, I'm hoping that this app could be fully developed with the features that I want, serving as a productive tool to my life. 
+
 These are the features that I'm hoping to implement. Though the idea is broad, I plan to develop the requirements little by little and reach to the final development with all the features I love.
 
 - A schedule calendar that has all the time sensitive schedules, and the things I plan to do, shown in a time frame.
