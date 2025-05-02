@@ -50,7 +50,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 **Challenges**
-The hardest thing was following through the instructions and getting lost within, as there are lots of buttons to search for. It took me hours to find buttons like the "Adjust Editor Options" and the "StoryBoard" file too, as it was named "main" in my files. At the very end, I was able to google through to find those buttons and files, but following through the instructions was a struggle.
+
+*The hardest thing was following through the instructions and getting lost within, as there are lots of buttons to search for. It took me hours to find buttons like the "Adjust Editor Options" and the "StoryBoard" file too, as it was named "main" in my files. At the very end, I was able to google through to find those buttons and files, but following through the instructions was a struggle.*
 
 ## License
 
