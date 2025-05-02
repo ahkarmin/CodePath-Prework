@@ -23,7 +23,7 @@ The following **required** functionality is completed:
     <a href="https://www.loom.com/share/27dad224fa9d4464a0040327c15f7ec8">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/27dad224fa9d4464a0040327c15f7ec8-cc17c4d3cf135221-full-play.gif">
     </a>
-  </div>
+</div>
 
 ## App Brainstorming
 **1. My Own version of To-Do List and Schedule Calendar**
