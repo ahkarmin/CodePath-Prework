@@ -26,30 +26,39 @@ The following **required** functionality is completed:
 </div>
 
 ## App Brainstorming
-**1. My Own version of To-Do List and Schedule Calendar**
-- A schedule calendar that has all the time sensitive schedules, and the things I plan to do, shown in a time frame.
-- A to-do list that differs between School work and Personal work, which have beautiful designs to motivate myself.
-- The feature to write on it using ApplePencil and also put the schedule manually on a Laptop.
 
-**2. FaceBook**
+
+**1. FaceBook**
 - The accessibility to a big network of connections to people.
 - Infinite scrolls
 - Saving Stories for years.
 
-**3. Microsoft OneNotes**
+**2. Microsoft OneNotes**
 - Writing with Apple Pencil without any delays in strokes.
 - Saving all important notebooks on Cloud.
 - Writing Notes flexibly in many different way including typing, handwriting, and the flexibility to move the text anywhere. 
 
-**4. Spotify**
+**3. Spotify**
 - Listening to music without repeating again and again.
 - Accessibility to most of the famous albums and music.
 - Allowing music to continue even when devices are turned off.
 
-**5. Google Maps**
+**4. Google Maps**
 - Real-time traffic and public transit updates
 - Saved locations and personalized recommendations
 - Offline map access for areas without signal
+
+# My App Idea
+** My Own version of To-Do List and Schedule Calendar**
+
+We always have to be prepared for each day to make productive use of our precious time. In my personal and school life, to-do list apps, and calendars are everything that maximizes my productivity of each day. It allows me to feel in control of the situations in my life, and ensures my ends to be met. 
+However, as I am using the apps created by other people, some features are not to my favors, and it's sometimes problematic to use. Therefore, I plan to create a to-do list and calendar app of my own that manages my schedules and my plans in one place. This is an idea that I've been thinking for a while, but have never developed, due to my skill constraints. After this course, I'm hoping that this app could be fully developed with the features that I want, serving as a productive tool to my life. 
+These are the features that I'm hoping to implement. Though the idea is broad, I plan to develop the requirements little by little and reach to the final development with all the features I love.
+
+- A schedule calendar that has all the time sensitive schedules, and the things I plan to do, shown in a time frame.
+- A to-do list that differs between School work and Personal work, which have beautiful designs to motivate myself.
+- Both of them in one application, and just a tab away. This app will focus on managing our time with the tasks that we have.
+- The feature to write on it using ApplePencil and also put the schedule manually on a Laptop.
 
 ## Notes
 
