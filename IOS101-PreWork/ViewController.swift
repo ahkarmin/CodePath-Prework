@@ -24,8 +24,10 @@ class ViewController: UIViewController {
             
             return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
         }
-        
     }
     
+    @IBAction func resetBackgroundColor(_ sender: UIButton) {
+        view.backgroundColor = .white
+    }
 }
 
