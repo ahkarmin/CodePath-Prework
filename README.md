@@ -21,8 +21,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
-**1. My Own version of To-Do List and Schedule Calendar **
+## App Brainstorming
+**1. My Own version of To-Do List and Schedule Calendar**
 - A schedule calendar that has all the time sensitive schedules, and the things I plan to do, shown in a time frame.
 - A to-do list that differs between School work and Personal work, which have beautiful designs to motivate myself.
 - The feature to write on it using ApplePencil and also put the schedule manually on a Laptop.
@@ -49,7 +49,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-*Challenges*
+**Challenges**
 The hardest thing was following through the instructions and getting lost within, as there are lots of buttons to search for. It took me hours to find buttons like the "Adjust Editor Options" and the "StoryBoard" file too, as it was named "main" in my files. At the very end, I was able to google through to find those buttons and files, but following through the instructions was a struggle.
 
 ## License
